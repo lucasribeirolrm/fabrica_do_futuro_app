@@ -1,0 +1,23 @@
+.button {
+    height: 30px;
+    width: 40px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.buttons-completo {
+    display: flex;
+    column-gap: 50px;
+    justify-content: center;
+}
+
+.green_button {background-color: green;}
+
+.blue_button {background-color: blue;}
+
+.orange_button {background-color: orange;}
+
+.white_button {background-color: white;}
+

@@ -1,0 +1,15 @@
+.button {
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button.on {
+  background-color: green;
+}
+
+.button.off {
+  background-color: red;
+}

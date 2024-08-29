@@ -1,0 +1,8 @@
+.question {
+    display: flex;
+    column-gap: 10px;
+    justify-content:left;
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+
